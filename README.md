@@ -1,2 +1,2 @@
 # Taiki
-Discord chat bot with simple chat features and helpfull commands to manage discord server.
+Discord chat bot with simple chat features and helpful commands to manage discord server.
